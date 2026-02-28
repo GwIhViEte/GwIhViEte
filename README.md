@@ -17,5 +17,8 @@ I am a **Core Maintainer** of **[Resume-Matcher](https://github.com/srbhr/Resume
 
 ![Contributor Rank](https://img.shields.io/github/contributors/srbhr/Resume-Matcher?color=orange&label=My%20Rank%20in%20Resume-Matcher&style=for-the-badge)
 
+### 🐍 My Contributions Snake
+
+![snake ascii art](https://raw.githubusercontent.com/GwIhViEte/GwIhViEte/output/github-contribution-grid-snake.svg)
 
 
