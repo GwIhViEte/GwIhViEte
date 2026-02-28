@@ -16,5 +16,6 @@ I am a **Core Maintainer** of **[Resume-Matcher](https://github.com/srbhr/Resume
 📫 **Reach me at:** [wjcszs@vip.qq.com](mailto:wjcszs@vip.qq.com)
 
 ### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=GwIhViEte&show_icons=true&theme=transparent)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GwIhViEte&theme=transparent)
+
 
