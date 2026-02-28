@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm GwIhViEte 👋
 
-<!--
-**GwIhViEte/GwIhViEte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A senior **Electrical Engineering & Automation** student (Class of 2026) passionate about solving real-world challenges through code and automation.
 
-Here are some ideas to get you started:
+### 🛠 Core Contribution
+I am a **Core Maintainer** of **[Resume-Matcher](https://github.com/srbhr/Resume-Matcher)**.
+* **Focus:** Optimizing AI-driven parsing algorithms and enhancing JD-Resume matching logic.
+* **Stack:** Python, NLP, Streamlit, Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+- ⚡ **Major:** B.S. in Electrical Engineering and Automation.
+- 💻 **Skills:** Python / C++ / Control Systems / ML Basics.
+- 🔍 **Seeking:** Full-time roles in **Software Engineering** or **Intelligent Hardware**.
+
+---
+📫 **Reach me at:** [wjcszs@vip.qq.com](mailto:wjcszs@vip.qq.com)
